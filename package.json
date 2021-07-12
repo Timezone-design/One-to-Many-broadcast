@@ -1,7 +1,7 @@
 {
-  "name": "webrtcvideobroadcast",
+  "name": "WEBRTC broadcasting",
   "version": "1.0.0",
-  "description": "WebRTC example for a video broadcast",
+  "description": "one to many broadcast",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,8 +10,8 @@
     "WebRTC",
     "SocketIO"
   ],
-  "author": "Tanner Gabriel",
-  "license": "MIT",
+  "author": "Nikita",
+  "license": "VIP",
   "dependencies": {
     "express": "^4.17.1",
     "socket.io": "^4.1.3",
